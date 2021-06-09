@@ -1,17 +1,17 @@
-import one from './images/1.png';
-import two from './images/2.png';
-import three from './images/3.png';
-import four from './images/4.png';
-import five from './images/5.png';
-import six from './images/6.png';
-import seven from './images/7.png';
-import eight from './images/8.png';
-import nine from './images/9.png';
-import ten from './images/10.png';
-import elevn from './images/11.png';
-import tweleve from './images/12.png';
-import thirteen from './images/13.png';
-import fourteen from './images/14.png';
+import one from './images/1.jpg';
+import two from './images/2.jpg';
+import three from './images/3.jpg';
+import four from './images/4.jpg';
+import five from './images/5.jpg';
+import six from './images/6.jpg';
+import seven from './images/7.jpg';
+import eight from './images/8.jpg';
+import nine from './images/9.jpg';
+import ten from './images/10.jpg';
+import elevn from './images/11.jpg';
+import tweleve from './images/12.jpg';
+import thirteen from './images/13.jpg';
+import fourteen from './images/14.jpg';
 
 
 
